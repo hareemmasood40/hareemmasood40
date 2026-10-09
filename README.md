@@ -9,7 +9,7 @@ I'm transitioning from a background in Mathematics education into **Data & AI En
 - 🇬🇧 Based in the UK, actively looking for Data Analyst / Junior AI Engineer roles
 
 ## 🔧 What I'm learning
-Python · SQL · Pandas · Scikit-learn · Matplotlib · Google Gemini API
+Python · SQL · Pandas · Scikit-learn · Matplotlib · Google Gemini API · Power BI
 
 ## 📌 Featured projects
 
@@ -20,6 +20,10 @@ trained Machine Learning model (83% accuracy) predicting Pass/Fail.
 **[AI Chatbot with Gemini API](https://github.com/hareemmasood40/ai-chatbot-gemini)**
 An interactive chatbot using a real LLM (Google Gemini), with conversation memory, error
 handling, and secure API key management.
+
+**[Job Search Dashboard](https://github.com/hareemmasood40/job-search-dashboard)**
+A Power BI dashboard tracking my own UK Data/AI job search, built directly from my real
+application data.
 
 ## 📫 Connect with me
 [LinkedIn](https://linkedin.com/in/hareem-masood-ai)
